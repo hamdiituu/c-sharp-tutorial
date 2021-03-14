@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.809.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{88E440F8-96C1-4152-B031-F7E9C1DB7653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{6FA2A4D5-25F8-4F47-B00F-0B6CD73347B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -15,6 +17,10 @@ Global
 		{88E440F8-96C1-4152-B031-F7E9C1DB7653}.Debug|anycpu.Build.0 = Debug|anycpu
 		{88E440F8-96C1-4152-B031-F7E9C1DB7653}.Release|anycpu.ActiveCfg = Release|anycpu
 		{88E440F8-96C1-4152-B031-F7E9C1DB7653}.Release|anycpu.Build.0 = Release|anycpu
+		{6FA2A4D5-25F8-4F47-B00F-0B6CD73347B3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6FA2A4D5-25F8-4F47-B00F-0B6CD73347B3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6FA2A4D5-25F8-4F47-B00F-0B6CD73347B3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6FA2A4D5-25F8-4F47-B00F-0B6CD73347B3}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
