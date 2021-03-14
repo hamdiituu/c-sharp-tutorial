@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{64E5867E-3057-4736-8FBB-A47BA239AA9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions", "Conditions\Conditions.csproj", "{023A5222-78F9-49B1-82DF-AB1CD8B3B3FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{64E5867E-3057-4736-8FBB-A47BA239AA9E}.Debug|anycpu.Build.0 = Debug|anycpu
 		{64E5867E-3057-4736-8FBB-A47BA239AA9E}.Release|anycpu.ActiveCfg = Release|anycpu
 		{64E5867E-3057-4736-8FBB-A47BA239AA9E}.Release|anycpu.Build.0 = Release|anycpu
+		{023A5222-78F9-49B1-82DF-AB1CD8B3B3FE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{023A5222-78F9-49B1-82DF-AB1CD8B3B3FE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{023A5222-78F9-49B1-82DF-AB1CD8B3B3FE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{023A5222-78F9-49B1-82DF-AB1CD8B3B3FE}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
